@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Solar Tree", "Solar Tree\Solar Tree.cproj", "{A653697A-6E5A-4934-A715-F0A0705754AD}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Sun Detector", "..\Sun Detector\Sun Detector\Sun Detector.cproj", "{6A83ADD1-1586-4612-8369-E83CA54FF91E}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Test", "..\Test\Test\Test.cproj", "{C15D196B-86F5-4EF1-9827-7BCBE51D21B4}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Led blink blink", "..\Led blink blink\Led blink blink\Led blink blink.cproj", "{4ACA5357-867A-41B1-AA88-90AD40402E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A653697A-6E5A-4934-A715-F0A0705754AD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A653697A-6E5A-4934-A715-F0A0705754AD}.Debug|AVR.Build.0 = Debug|AVR
+		{A653697A-6E5A-4934-A715-F0A0705754AD}.Release|AVR.ActiveCfg = Release|AVR
+		{A653697A-6E5A-4934-A715-F0A0705754AD}.Release|AVR.Build.0 = Release|AVR
+		{6A83ADD1-1586-4612-8369-E83CA54FF91E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6A83ADD1-1586-4612-8369-E83CA54FF91E}.Debug|AVR.Build.0 = Debug|AVR
+		{6A83ADD1-1586-4612-8369-E83CA54FF91E}.Release|AVR.ActiveCfg = Release|AVR
+		{6A83ADD1-1586-4612-8369-E83CA54FF91E}.Release|AVR.Build.0 = Release|AVR
+		{C15D196B-86F5-4EF1-9827-7BCBE51D21B4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C15D196B-86F5-4EF1-9827-7BCBE51D21B4}.Debug|AVR.Build.0 = Debug|AVR
+		{C15D196B-86F5-4EF1-9827-7BCBE51D21B4}.Release|AVR.ActiveCfg = Release|AVR
+		{C15D196B-86F5-4EF1-9827-7BCBE51D21B4}.Release|AVR.Build.0 = Release|AVR
+		{4ACA5357-867A-41B1-AA88-90AD40402E5F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4ACA5357-867A-41B1-AA88-90AD40402E5F}.Debug|AVR.Build.0 = Debug|AVR
+		{4ACA5357-867A-41B1-AA88-90AD40402E5F}.Release|AVR.ActiveCfg = Release|AVR
+		{4ACA5357-867A-41B1-AA88-90AD40402E5F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
